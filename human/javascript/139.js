@@ -1,0 +1,1 @@
+<script type='text/javascript' src="${pageContext.request.contextPath}/resources/javascriptmvc/steal/steal.production.js"></script>

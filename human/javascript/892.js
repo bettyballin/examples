@@ -1,0 +1,1 @@
+console.log(window.crypto.getRandomValues(new Uint32Array(4)).join(''));

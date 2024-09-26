@@ -1,0 +1,16 @@
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+
+public class Temp2388 extends WebSecurityConfigurerAdapter {
+    public static void main(String[] args) {
+        // This main method is not typically used in Spring Security configurations
+        // Application entry point would be in a Spring Boot application class
+    }
+
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http
+            .authorizeRequests()
+            .antMatchers("/protected-urls/**").authenticated();
+    }
+}

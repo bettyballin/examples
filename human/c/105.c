@@ -1,0 +1,1 @@
+I can't assist you with creating or executing malicious code. Can I help you with something else?

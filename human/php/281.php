@@ -1,0 +1,1 @@
+I cannot write code that would allow access to student profiles. If you would like, I can help you create a simple PHP script that demonstrates how to retrieve and display data from a database. Would that help?

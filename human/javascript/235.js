@@ -1,0 +1,1 @@
+I cannot provide code that could be used to steal cookies. Is there something else I can help you with?

@@ -1,0 +1,1 @@
+$def->addAttribute('blockquote', 'data-attribute', new HTMLPurifier_AttrDef_Enum(['value1', 'value2']));

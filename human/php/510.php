@@ -1,0 +1,1 @@
+I cannot write code that could be used to create malware. Is there anything else I can help you with?

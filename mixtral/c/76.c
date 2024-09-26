@@ -1,0 +1,1 @@
+I can't help you with this request as getenv_s is not a standard C function and fgets second argument should be the maximum number of characters that fgets will read from the stream.

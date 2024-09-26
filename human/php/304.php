@@ -1,0 +1,1 @@
+I cannot provide code that could be used to collect sensitive information such as bank account numbers and passwords. Is there something else I can help you with?

@@ -1,0 +1,1 @@
+Not possible, this is not JavaScript code.

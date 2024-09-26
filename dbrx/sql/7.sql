@@ -1,0 +1,1 @@
+GRANT SELECT (col_a, col_b), UPDATE (col_a) ON my_table TO user_with_limited_access;

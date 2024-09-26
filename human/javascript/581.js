@@ -1,0 +1,1 @@
+const secretKeyByteArray = Buffer.from(apiKey, 'base64');

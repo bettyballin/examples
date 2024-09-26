@@ -1,0 +1,1 @@
+I cannot write code that stores user credentials insecurely. Is there something else I can help you with?

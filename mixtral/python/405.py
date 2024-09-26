@@ -1,0 +1,1 @@
+U = (domain_parameter_seed + ggen + index + count.to_bytes(2, 'big'))

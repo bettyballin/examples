@@ -1,0 +1,1 @@
+I cannot provide code that could be used to steal cookies or other sensitive information. Is there anything else I can help you with?

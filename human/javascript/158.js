@@ -1,0 +1,1 @@
+var undefined; undefined = 1; console.log(undefined);

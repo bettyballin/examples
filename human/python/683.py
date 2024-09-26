@@ -1,0 +1,42 @@
+pkcs1_enc = b'''-----BEGIN RSA PRIVATE KEY-----
+Proc-Type: 4,ENCRYPTED
+DEK-Info: AES-128-CBC,269A1092E26672B45D40F2286B378739
+
+crTik10vEjqh9a2lsKQLwKxFANAcSrivDZ8uiRQlC/DHJJnRsDwZz6Q0Cqsiv/xu
+tt00P3TwSH7qEbQeyaTUEPmXcu3GNVpwKryxXCRm9H6Ggx8pbXZk/T5MN2WOHZuB
+7t8u6O9F93ZuIVIgUHkhI6G7GUHdvzbeJttgsMn24sJegvXfsKT1VOZzotLEhckF
+gnPtFZxH6YvgGZqBX+NLvQ/MRiaosTmbp3IvT+KECVP159ypCK754csDazAB09qq
+bTYV0KBlN360F8b3E4Ty/pGB3GY30DXAlbrHdA4i/VJegDVUYxYkqQZfsNi3rBmu
+wJfjEjGB4tDZ4DoEc55WvRa4vWyPFjwcEDZPXMYqPyo49PNlzTXK+qDiJpqwpYza
+8t8k6xogzPSsyF+SKTplpyHyiAhUBZTLg1MXUxKtwSKxd85hinAUBihQZkMiD9qk
+s1oEyuxavCz8VuTZypF99lPNP1kvSkKKTlTumSGhrSQ+ZNPs1GKCjmpWv+qXXhSt
+mbOV0DJCUyLGaNz/83iGg+aQSQLil+uSP6KOOczcqwUtzwyFO0ecJk7Fvyr1JTGz
+i3rPjcuBpFR8w+Z5sf5ZD0gvfwjBpq5QqOw4jXUJpUpxKs5FP1EmOh2a813pZGBu
+e3r+NxLFmgAjU8wnioomjEV1QJRiZ42bE0QO9OW8Mt5at/Bcu8cDHbJ2NT3i9jL/
+jrPLKFB80fJOLB/TppuiWtycaju1IXgrXbLH2oPKHJ3CzzDyVmRDrpPKhgh1INO1
+gJYHFfTsj/JBII59RQKrEIIQs+upjrjoJWkS2YyGva91PxvJPA1ntHTxVua58gZH
+/QN1ZCen8Ib4H558XPlNy+U6djYoV9uvyFN15Helqyet5lpDha/uXTbSK4vSgZtt
+yvDkYM2rIFQmK7HdgQbtd+Zupn6M5XfASfECdU5DblQYUqdSfVFu3VZnbH52jmXP
+imNFrATY10rm5KF3aaz5UBqACfJnSpr3UYBiLEX7lbrXDGQbqK1R6FyJj4cu5nUp
+tKunQCXWmW/YcWjhSNbHyWW/k2QpV/58KMN75mpl9dMGhWk33HcgMtWQ20cy9IzG
++FdivYkP7uexEqyUaMXUkvi43yH5MR/s+X0HJ5SAojW0wiB9ev3aBFhxs9XtTiG9
+dAEl/UC154UwH6HUWlL0a3SuOnIWnR89A6m1ov/CI8I2oqyqKSeeKF0raJJs2e5O
+1Cvuko9q+g+eVovDCGZeraVGdJn9+4922tKw/OvQdy+unpMpGxUyx4U/bKYBC3Py
+tAaFHA1j7bjNvl8Xs5dPWzflo9OEU1Dx4Naat/yPoxvm0UJyoEoJA1eqYEG2bdbp
+UqJJMfF1n0BZirJochELYhF3kG3JaJzn6ER7MNW/yzJuNQGx7bli3CHAs1QhgDMM
+1LLtmpAAm9WdqEo57DjX+UBFOHo/Q5R7dR5h1bbxeQJxFwbBTSauVFfVUySt3Af7
+r7C2bQZnkvTU2mxoxg3DXCy0dsN28A/V558ZERmiVT1OkmUxXh/hKHAes8kNB27V
+bhoWaV5igMcrYuImw3wGKXZ4DszmaIMYNLMvo4N3PbkbuwklTX8eQh1AeQRMCSbb
+-----END RSA PRIVATE KEY-----
+'''
+
+# Import/Export via Cryptography
+from cryptography.hazmat.primitives import serialization
+from cryptography.hazmat.backends import default_backend
+keyViaPycaCryptography = serialization.load_pem_private_key(pkcs1_enc, b'qwerty0123456789', backend=default_backend())
+print(keyViaPycaCryptography.private_bytes(serialization.Encoding.PEM, serialization.PrivateFormat.TraditionalOpenSSL, serialization.NoEncryption()).decode('utf-8'))
+
+# Import/Export via PyCryptodome
+from Crypto.PublicKey import RSA
+keyViaPyCryptodome = RSA.import_key(pkcs1_enc, passphrase=b'qwerty0123456789')
+print(keyViaPyCryptodome.exportKey(format='PEM', passphrase=None, pkcs=1, protection=None).decode('utf-8'))

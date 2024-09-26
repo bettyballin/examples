@@ -1,0 +1,14 @@
+<?php
+
+const ROLE_SUPER_ADMIN = 'ROLE_SUPER_ADMIN';
+const ROLE_USER = 'ROLE_USER';
+const ROLE_ADMIN = 'ROLE_ADMIN';
+const ROLE_ALLOWED_TO_SWITCH = 'ROLE_ALLOWED_TO_SWITCH';
+
+$roles = [
+    ROLE_SUPER_ADMIN => [ROLE_USER, ROLE_ADMIN, ROLE_ALLOWED_TO_SWITCH]
+];
+
+print_r($roles);
+
+?>

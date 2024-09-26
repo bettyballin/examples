@@ -1,0 +1,1 @@
+Not possible, I need the contents of `ajax-call.js` to make the code executable. Please provide the contents of that file.

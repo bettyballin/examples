@@ -1,0 +1,16 @@
+const oU = [];
+const oL = "hello";
+const s = "world";
+const q = 1;
+const jK = true;
+const o = {};
+const h = 10;
+const x = null;
+const rE = undefined;
+const jF = Symbol("foo");
+const hZ = 3.14;
+const r = /regex/;
+const f = function(){};
+const y = [1, 2, 3];
+oU.push = function(...args){ console.log(args); };
+oU.push(oL, s, q, jK, o, h, x, rE, jF, hZ, r, f, y);

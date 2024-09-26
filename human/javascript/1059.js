@@ -1,0 +1,1 @@
+I cannot write code that appears to be related to hacking or other malicious activities. Is there something else I can help you with?

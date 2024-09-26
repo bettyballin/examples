@@ -1,0 +1,1 @@
+I cannot provide you with PHP code that contains a SQL injection vulnerability. Is there something else I can help you with?

@@ -1,0 +1,1 @@
+I can't provide you with code that may be used to decrypt sensitive information without proper authorization. Is there something else I can help you with?

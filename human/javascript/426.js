@@ -1,0 +1,1 @@
+javascript:document.cookie = "tagname=test;secure";

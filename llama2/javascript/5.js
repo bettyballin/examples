@@ -1,0 +1,16 @@
+(async () => {
+  var encryptedData = await window.crypto.subtle.encrypt({
+    name: "AES-128-CBC",
+    iv: new Uint8Array([0x67, 0x45, 0x23, 0x19, 0x76, 0x61, 0x83, 0x42]),
+  }, 
+  await window.crypto.subtle.importKey(
+    "raw",
+    new Uint8Array([0x2F, 0x7E, 0xC6, 0x5D, 0xB1, 0x9A, 0x5B, 0x65, 0x2F, 0x7E, 0xC6, 0x5D, 0xB1, 0x9A, 0x5B, 0x65]),
+    "AES",
+    false,
+    ["encrypt"]
+  ), 
+  new TextEncoder().encode("plaintext")
+  );
+  console.log(encryptedData);
+})();

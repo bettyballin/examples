@@ -1,0 +1,1 @@
+`$db->prepare("SELECT * FROM users WHERE id=:id");`

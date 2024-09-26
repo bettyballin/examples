@@ -1,0 +1,2 @@
+const hmacDigest = CryptoJS.HmacSHA512(path + CryptoJS.enc.Hex.stringify(CryptoJS.enc.Hex.parse(message)), secret);
+postman.setEnvironmentVariable('API-Signature', CryptoJS.enc.Base64.stringify(hmacDigest));

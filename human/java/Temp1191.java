@@ -1,0 +1,11 @@
+public class Temp1191 {
+    public static void main(String[] args) {
+        String xml = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
+                "<DGICFE:EnvioCFE version=\"1.0\" xsi:schemaLocation=\"http://cfe.dgi.gub.uy EnvioCFE_v1.26.xsd\" xmlns:DGICFE=\"http://cfe.dgi.gub.uy\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n" +
+                "  <DGICFE:Caratula version=\"1.0\">\n" +
+                "    <DGICFE:RutReceptor>214844360018</DGICFE:RutReceptor>\n" +
+                "    <DGICFE:RUCEmisor>216236720014</DGICFE:RUCEmisor>\n" +
+                "    <DGICFE:Idemisor>0</DGICFE:Idemisor>\n" +
+                "    <DGICFE:CantCFE>1</DGICFE:CantCFE>\n" +
+                "    <DGICFE:Fecha>2013-09-25T23:34:12-03:00</DGICFE:Fecha>\n" +
+                "    <DGICFE:X509Certificate>MIIFhDCCA2ygAwIBAgIQIcZdY4xVnSVRv12pmrXptDANBgkqhkiG9w0BAQUFADB6MQswCQYDVQQGEwJVWTErMCkGA1UECgwiQURNSU5JU1RSQUNJT04gTkFDSU9OQUwgREUgQ09SUkVPUzEfMB0GA1UECwwWU0VSVklDSU9TIEVMRUNUUk9OSUNPUzEdMBsGA1UEAwwUQ29ycmVvIFVydWd1YXlvIC0gQ0EwHhcNMTMwNjE3MTkwNDA5WhcNMTQwNjE3MTkwNDA5WjCBmTEoMCYGCSqGSIb3DQEJARYZamNhcmxvcy5hbHZhcmV6QGdtYWlsLmNvbTEWMBQGA1UECgwNVFUgUEVESURPIFdFQjESMBAGA1UECAwJQ2FuZWxvbmVzMQswCQYDVQQGEwJVWTEYMBYGA1UEBRMPUlVDMjE2MjM2NzIwMDE0MRowGAYDVQQDDBFUVSBQRURJRE8gV0VCIFNSTDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1ikDTROtXNuYiH/RpVf3LYhXkMGPvwxn1L8OVQBVKo/lmoAQGFernm2pJj1tM3yAltkRyjLUf3+zqDFrkM0X0IqYd8GrcLb9l0VWUP0eTFzxT5WFamRGhLJ/w8GpXj+IFm2f8mavQAfB42yWCK2sFDEhvT5U35+2kVcT04MRLpcCAwEAAaOCAWgwggFkMCQGA1UdEQQdMBuBGWpjYXJsb3MuYWx2YXJlekBnbWFpbC5jb20wDAYDVR0TAQH/BAIwADAOBgNVHQ8BAf8EBAMCA/gwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIBAQQEAwIFoDAdBgNVHQ4EFgQUFdy4NHb4asV9//+TOkSAAzn47/YwHwYDVR0jBBgwFoAUJY/fQy+OaroLvkZcV1CTt1G+/NkwVAYDVR0gBE0wSzBJBgwrBgEEAYH1TwEBAQQwOTA3BggrBgEFBQcCARYraHR0cDovL3d3dy5jb3JyZW8uY29tLnV5L2NvcnJlb2NlcnQvY3BzLnBkZjAYBg0rBgEEAYH1TwEBAQQBBA

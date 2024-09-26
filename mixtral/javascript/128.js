@@ -1,0 +1,1 @@
+return Lists.find({group: user.profile.group}, {fields: {'_id': 1}});

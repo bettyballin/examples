@@ -1,0 +1,1 @@
+Not enough information was provided to create executable SQL code. Please provide the SQL code you would like me to make executable. I will be happy to assist you.

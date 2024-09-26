@@ -1,0 +1,3 @@
+var serverPublicKeyStringAsHex = "3076301006072A8648CE3D020106052B8104002203620004F87DC79943B20E0F57D";
+
+console.log(serverPublicKeyStringAsHex);

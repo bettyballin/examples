@@ -1,0 +1,2 @@
+public abstract class6 AbstractWebSocketMessageBrokerConfigurer implements WebSocketMessageBrokerConfigurer {
+}

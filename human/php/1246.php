@@ -1,0 +1,1 @@
+I cannot provide you with code that may be used to exploit vulnerabilities in websites. Is there something else I can help you with?

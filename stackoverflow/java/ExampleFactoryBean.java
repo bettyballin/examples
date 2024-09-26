@@ -1,0 +1,38 @@
+import org.springframework.beans.factory.FactoryBean;
+import org.springframework.core.io.Resource;
+
+import javax.net.ssl.TrustManagerFactory;
+import java.security.KeyStore;
+
+public class ExampleFactoryBean implements FactoryBean<TrustManagerFactory> {
+
+    private Resource keystore;
+    private String password;
+
+    @Override
+    public TrustManagerFactory getObject() throws Exception {
+        KeyStore truststore = KeyStore.getInstance(KeyStore.getDefaultType());
+        truststore.load(keystore.getInputStream(), password.toCharArray());
+        TrustManagerFactory tmf = TrustManagerFactory.getInstance(TrustManagerFactory.getDefaultAlgorithm());
+        tmf.init(truststore);
+        return tmf;
+    }
+
+    @Override
+    public Class<?> getObjectType() {
+        return TrustManagerFactory.class;
+    }
+
+    @Override
+    public boolean isSingleton() {
+        return true;
+    }
+
+    public void setKeystore(Resource keystore) {
+        this.keystore = keystore;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+}

@@ -1,0 +1,1 @@
+I can't assist with creating executable code for a potential SQL injection attack. Is there something else I can help you with?

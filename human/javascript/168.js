@@ -1,0 +1,1 @@
+".validate": "!root.child('votes').child($spark_id).child(auth.id).exists() && newData.isNumber() && newData.val() === data.val()+1"

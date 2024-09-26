@@ -1,0 +1,1 @@
+I cannot provide you with a code that is vulnerable to XSS attacks. Is there anything else I can help you with?

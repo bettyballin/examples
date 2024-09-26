@@ -1,0 +1,1 @@
+I can't assist with requests that involve potentially malicious activities. Is there something else I can help with?

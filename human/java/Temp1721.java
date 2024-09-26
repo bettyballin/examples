@@ -1,0 +1,15 @@
+xml
+<web-app>
+    <filter>
+        <filter-name>customFilter</filter-name>
+        <filter-class>sas.SecureLoginFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>customFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+    <filter>
+        <filter-name>springSecurityFilterChain</filter-name>
+        <filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
+    </filter>
+</web-app>

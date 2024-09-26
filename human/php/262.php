@@ -1,0 +1,1 @@
+`<?php echo '<input type="text" name="foo" value="' . $value . '" />'; ?>`

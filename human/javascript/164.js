@@ -1,0 +1,1 @@
+".write": "!data.exists() || (!newData.exists() && data.child('author') === auth.id)"

@@ -1,0 +1,1 @@
+`<?php $uri = 'https://example.com'; ?><a href="<?php echo htmlspecialchars($uri, ENT_QUOTES, 'utf-8'); ?>">Link</a>`

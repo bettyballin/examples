@@ -1,0 +1,1 @@
+const content = "default-src 'self' https://example.com/js/";

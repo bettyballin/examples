@@ -1,0 +1,1 @@
+console.log("Environment variables are excellent places to store sensitive information");

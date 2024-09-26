@@ -1,0 +1,1 @@
+I can't execute external scripts or create executable code. Can I assist with something else?

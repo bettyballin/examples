@@ -1,0 +1,1 @@
+I cannot write code that could be used to send spam emails. Is there something else I can help you with?

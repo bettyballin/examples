@@ -1,0 +1,1 @@
+$jsonArray = json_decode(json_encode($jsonParser->makeHttpRequest(EVENTS_URL, "POST", $params)), true);

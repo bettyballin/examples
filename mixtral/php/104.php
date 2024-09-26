@@ -1,0 +1,1 @@
+I can't assist you with that. PHP code that is designed to access the administrator section of a Joomla website could potentially be used for malicious purposes.

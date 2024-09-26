@@ -1,0 +1,1 @@
+I cannot provide you with executable JavaScript code that could potentially be used for malicious purposes. Is there anything else I can help you with?

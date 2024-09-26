@@ -1,0 +1,1 @@
+print(hash(frozenset([1,2,1])) == hash(frozenset([1,2,2])))

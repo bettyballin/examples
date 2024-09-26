@@ -1,0 +1,1 @@
+webview.postMessage({ type: "jsonData", payload: JSON.stringify(data) });

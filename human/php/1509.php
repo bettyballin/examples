@@ -1,0 +1,1 @@
+`<?php echo '<img src="a_chosen_path_name/yourimage.jpg" />'; ?>`

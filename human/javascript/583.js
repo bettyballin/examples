@@ -1,0 +1,1 @@
+<iframe src="about:blank" data-real-src="http://3rd.party/..." onload="this.src=this.getAttribute('data-real-src');"></iframe>

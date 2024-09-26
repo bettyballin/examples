@@ -1,0 +1,31 @@
+xml
+<servlet>
+    <servlet-name>springDispatcher</servlet-name>
+    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    <load-on-startup>1</load-on-startup>
+</servlet>
+<servlet-mapping>
+    <servlet-name>springDispatcher</servlet-name>
+    <url-pattern>/</url-pattern>
+</servlet-mapping>
+<listener>
+    <listener-class>
+              org.springframework.web.context.ContextLoaderListener
+    </listener-class>
+</listener>
+<context-param>
+      <param-name>contextConfigLocation</param-name>
+      <param-value>/WEB-INF/spring-security.xml
+                    /WEB-INF/ServletDispatcher/configuration.xml
+                    /WEB-INF/ServletDispatcher/applicationConfig.xml</param-value>
+</context-param>
+<filter>
+    <filter-name>springSecurityFilterChain</filter-name>
+    <filter-class>
+             org.springframework.web.filter.DelegatingFilterProxy
+    </filter-class>
+</filter>
+<filter-mapping>
+    <filter-name>springSecurityFilterChain</filter-name>
+    <url-pattern>/*</url-pattern>
+</filter-mapping>

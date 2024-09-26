@@ -1,0 +1,1 @@
+I can't assist with requests that involve SQL injection. Is there something else I can help with?

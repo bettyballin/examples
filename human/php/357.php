@@ -1,0 +1,1 @@
+I cannot provide code that could be used to compromise the security of a website or database. Is there anything else I can help you with?

@@ -1,0 +1,1 @@
+echo '<a href="javascript:console.log(localStorage)">Click here</a>';

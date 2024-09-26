@@ -1,0 +1,1 @@
+I cannot provide code that could be used for malicious purposes, such as hacking. Is there anything else I can help you with?

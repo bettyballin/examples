@@ -1,0 +1,1 @@
+I cannot provide you with PHP code that can be used to execute a remote root command. Is there anything else I can help you with?

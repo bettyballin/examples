@@ -1,0 +1,1 @@
+var content = "script-src 'unsafe-inline'; style-src 'unsafe-inline'";

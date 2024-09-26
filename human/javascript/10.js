@@ -1,0 +1,1 @@
+javascript:window.top.location.href = window.top.location.href + "#hello";

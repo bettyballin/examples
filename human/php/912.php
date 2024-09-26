@@ -1,0 +1,3 @@
+<?php if ($app->getUser()->hasRole('ROLE_FOO')) : ?>
+    ...
+<?php endif; ?>

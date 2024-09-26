@@ -1,0 +1,1 @@
+console.log("How to Use Environment Variables in App Platform");

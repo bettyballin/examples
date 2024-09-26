@@ -1,0 +1,1 @@
+SELECT 'The woman''s hat blew off in the wind.' FROM DUAL;

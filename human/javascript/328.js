@@ -1,0 +1,1 @@
+const content = "default-src * 'unsafe-inline' 'unsafe-eval'";

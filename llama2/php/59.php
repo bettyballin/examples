@@ -1,0 +1,1 @@
+I cannot write code that could be used to access a website in a way that the website's owner did not intend. Is there something else I can help you with?

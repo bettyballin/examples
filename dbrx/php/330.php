@@ -1,0 +1,1 @@
+$hash = hash('sha256', $userData['salt'] . hash('sha256', $password));

@@ -1,0 +1,1 @@
+I can't provide you with an executable PHP code that includes FTP credentials. Is there something else I can help you with?

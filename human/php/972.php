@@ -1,0 +1,1 @@
+{!! Form::hidden('question_id', Crypt::encrypt($question_id)) !!}

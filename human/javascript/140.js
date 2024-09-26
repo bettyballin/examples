@@ -1,0 +1,11 @@
+-webapps
+    -WEB-INF
+        -web.xml
+        -mvc-dispatcher-servlet.xml
+        -pages
+            -hello.jsp
+    -resources
+        -javascriptmvc
+            -steal
+                -steal.production.js
+                -steal.js

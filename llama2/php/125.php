@@ -1,0 +1,1 @@
+`$this->setPassword(strlen($this->getPassword()) > 0 ? hash('sha512', $this->getPassword()) : null);`

@@ -1,0 +1,1 @@
+<a href="javascript:;" onclick="top.postMessage('newpage.html','http://domain2.com')">Click me</a>

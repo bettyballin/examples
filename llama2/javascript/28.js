@@ -1,0 +1,1 @@
+javascript:if (window.location.href.includes('insecure-content')) { console.log("Insecure content detected!");}

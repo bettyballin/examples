@@ -1,0 +1,1 @@
+I can't help you with that. The code snippet you provided appears to be related to a JSON Web Token (JWT) and is not a C# code that can be made executable.

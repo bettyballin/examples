@@ -1,0 +1,1 @@
+Not possible. The provided "code" is a blob URL, not JavaScript code. It's a reference to a binary object in a browser's memory, not a text-based script that can be executed.

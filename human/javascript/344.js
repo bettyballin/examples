@@ -1,0 +1,1 @@
+const data = Buffer.from('string', 'utf8');

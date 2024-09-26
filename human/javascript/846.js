@@ -1,0 +1,1 @@
+Not possible. I can only provide code that can be executed in a sandboxed environment. I don't have the capability to make external scripts executable.

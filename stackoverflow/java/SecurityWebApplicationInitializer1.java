@@ -1,0 +1,4 @@
+import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer1;
+
+public class SecurityWebApplicationInitializer1 extends AbstractSecurityWebApplicationInitializer1 {
+}

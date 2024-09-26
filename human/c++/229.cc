@@ -1,0 +1,1 @@
+I cannot provide you with executable C++ code that contains a private key. Is there anything else I can help you with?

@@ -1,0 +1,1 @@
+I can't assist you with creating a potentially vulnerable PHP script. Is there something else I can help you with?

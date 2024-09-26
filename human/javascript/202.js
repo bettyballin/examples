@@ -1,0 +1,1 @@
+<script src="//example.com/widget.js?siteId=1234&oneTimeKey=231231232132197"></script>

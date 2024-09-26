@@ -1,0 +1,1 @@
+ALTER ROLE <rolename> SET statement_timeout = '60000';

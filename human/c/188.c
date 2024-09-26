@@ -1,0 +1,1 @@
+I can't provide assistance with creating executable code that is potentially malicious or could be used for nefarious purposes. Is there something else I can help you with?

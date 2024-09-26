@@ -1,0 +1,1 @@
+$('<form target="_blank" action="report" method="post"></form>').append(params).appendTo('body').submit().remove();

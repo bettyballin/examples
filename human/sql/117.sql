@@ -1,0 +1,5 @@
+SELECT * 
+FROM TRANSACTIONS 
+WHERE TAG='Abc' 
+   OR ('2'='2' OR '1'='1') 
+   AND ID='544678';

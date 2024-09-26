@@ -1,0 +1,12 @@
+from ssl import libssl
+
+secret_key = b'\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x10\x11\x12\x13\x14\x15'
+nonce = b'\x16\x17\x18\x19\x20\x21\x22\x23\x24\x25\x26\x27\x28\x29\x30\x31'
+ciphertext = b'\x32\x33\x34\x35\x36\x37\x38\x39\x40\x41\x42\x43\x44\x45\x46\x47'
+
+cipher = libssl.Cipher('aes_128_cbc', 'decrypt') # Changed to decrypt
+cipher.set_key(secret_key, 16)
+cipher.set_iv(nonce, 16)
+
+decoded = cipher.update(ciphertext) + cipher.final()
+print(decoded)

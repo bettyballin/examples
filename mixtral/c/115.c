@@ -1,0 +1,1 @@
+I cannot provide you with code that could potentially be used to create malicious software. Is there anything else I can help you with?

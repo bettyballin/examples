@@ -1,0 +1,1 @@
+javascript:window.top.location.href = "http://<PARENT URL>/#hello".replace("<PARENT URL>", window.parent.location.href.split("#")[0])

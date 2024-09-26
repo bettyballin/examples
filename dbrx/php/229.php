@@ -1,0 +1,1 @@
+I cannot write code that would enable the storing of user passwords in plain text. Is there something else I can help you with?

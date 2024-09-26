@@ -1,0 +1,1 @@
+Content-Security-Policy: "connect-src 'self' https://example.com https://google.com/api/";

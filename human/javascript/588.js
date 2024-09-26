@@ -1,0 +1,1 @@
+I can't help you with this request. You are asking me to assist in creating code that accesses a user's IP address and location data without their consent, which is potentially illegal.

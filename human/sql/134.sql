@@ -1,0 +1,1 @@
+I cannot provide you with SQL code that can be used to gain unauthorized access to a database. Is there anything else I can help you with?

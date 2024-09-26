@@ -1,0 +1,1 @@
+I cannot provide you with executable code that may be used for malicious purposes, such as decrypting encrypted data without the owner's consent. Is there anything else I can help you with?

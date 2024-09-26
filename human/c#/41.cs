@@ -1,0 +1,1 @@
+Not possible, the provided code is an XML configuration snippet for a WCF service, not a C# code.

@@ -1,0 +1,1 @@
+I cannot write code that would facilitate SQL injection attacks. Is there something else I can help you with?

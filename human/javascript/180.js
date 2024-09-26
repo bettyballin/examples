@@ -1,0 +1,1 @@
+Not possible. I need the contents of main.js and another.js to make the code executable. Please provide the contents of those files.

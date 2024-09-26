@@ -1,0 +1,1 @@
+I cannot provide PHP code that can be used to send emails with a false "X-Php-Originating-Script" header. Is there anything else I can help you with?

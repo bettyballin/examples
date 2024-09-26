@@ -1,0 +1,1 @@
+I cannot provide you with executable JavaScript code that could be used to exploit a vulnerability. Is there anything else I can help you with?

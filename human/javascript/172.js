@@ -1,0 +1,1 @@
+Meteor.users.update(Meteor.userId(), {$set:{_id: new Mongo.ObjectID()}});

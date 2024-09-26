@@ -1,0 +1,2 @@
+const buf = Buffer.from('4DB79D009E6E0F59BC67879BDE67F4CDD9E2582794F80CFFF30321C2BDF85CCD', 'hex');
+console.log(buf.toString('hex'));

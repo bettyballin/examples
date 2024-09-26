@@ -1,0 +1,1 @@
+document.write('<a href="http://www.mydomain.com/application.html' + window.location.search + '">Continue to Application</a>');

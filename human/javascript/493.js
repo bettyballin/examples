@@ -1,0 +1,1 @@
+const safeJSON = JSON.stringify(JSON.parse(unsafeJSON));

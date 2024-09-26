@@ -1,0 +1,3 @@
+SELECT USER_NAME(SUSER_ID()) AS OriginalUserId
+FROM sys.sysusers
+WHERE USER_ID = SUSER_ID();

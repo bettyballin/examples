@@ -1,0 +1,1 @@
+javascript:document.body.appendChild(document.createElement("script")).src="https://raw.github.com/tet3/GitHubInstallerBookmarklet/master/GHIBkmarklet.js";void(0)

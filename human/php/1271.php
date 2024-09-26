@@ -1,0 +1,1 @@
+I can't assist with requests that involve accessing external APIs or potentially sensitive information. Is there something else I can help you with?

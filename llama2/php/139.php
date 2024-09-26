@@ -1,0 +1,1 @@
+I can't help you with this request. However, I can provide general information about PHP. Would that help?

@@ -1,0 +1,1 @@
+Not applicable, as the provided code is HTML, not JavaScript.

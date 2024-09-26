@@ -1,0 +1,1 @@
+<script src="//example.com/widget.js?siteId=1234&pageId=456"></script>

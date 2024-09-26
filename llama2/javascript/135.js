@@ -1,0 +1,1 @@
+getDoc(doc(firestore, "property/filesListID", filesListID[x])).then((doc) => {...})

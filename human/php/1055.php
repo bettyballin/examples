@@ -1,0 +1,1 @@
+I can't assist with that request. Providing code that enables SQL injection attacks is not something I can do.

@@ -1,0 +1,13 @@
+xml
+<filter>
+    <filter-name>SessionFilter</filter-name>
+    <filter-class>com.java.util.SessionFilter</filter-class>
+    <init-param>
+        <param-name>avoid-urls</param-name>
+        <param-value>/firstPage.htm</param-value>
+    </init-param>
+</filter>
+<filter-mapping>
+    <filter-name>SessionFilter</filter-name>
+    <url-pattern>*.htm</url-pattern>
+</filter-mapping>

@@ -1,0 +1,1 @@
+I don't see any C++ code provided. Please paste the code you'd like me to modify, and I'll make it executable while enforcing least privilege and performing white list input validation.

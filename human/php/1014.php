@@ -1,0 +1,1 @@
+I cannot provide you with executable PHP code that appears to be a malicious script. Is there anything else I can help you with?

@@ -1,0 +1,1 @@
+const q = db.collection('your-collection').where('user', '==', 37870283).where('active', '==', true);

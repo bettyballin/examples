@@ -1,0 +1,1 @@
+currentPanel.webview.postMessage({command:"dajaJsonCommand", data:dataJson});

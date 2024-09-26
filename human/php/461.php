@@ -1,0 +1,1 @@
+I cannot provide code that creates symbolic links to sensitive system files. Is there something else I can help you with?

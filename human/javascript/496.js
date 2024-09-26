@@ -1,0 +1,1 @@
+console.log('%cStop!', 'color: red; font-size: 30px; font-weight: bold;');

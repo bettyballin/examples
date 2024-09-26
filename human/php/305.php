@@ -1,0 +1,1 @@
+I cannot provide code that could be used to steal sensitive information. Is there something else I can help you with?

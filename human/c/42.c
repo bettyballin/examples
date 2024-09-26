@@ -1,0 +1,1 @@
+gcc -I/home/aleksei/openSSL0.9.8/include -L. -o app tema1.c -lcrypto

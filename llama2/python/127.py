@@ -1,0 +1,1 @@
+print(bin(int.from_bytes(b'\xe4\x06-\x95\xf5!P4', 'big'))[2:])

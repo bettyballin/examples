@@ -1,0 +1,1 @@
+Not possible due to security restrictions. I can't execute or provide executable code.

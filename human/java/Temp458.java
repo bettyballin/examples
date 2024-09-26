@@ -1,0 +1,13 @@
+xml
+<servlet>
+    <servlet-name>extraSpring</servlet-name>
+    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    <load-on-startup>1</load-on-startup>
+    <init-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>
+          classpath:extra-spring-web.xml
+          classpath:extra-spring-security.xml
+        </param-value>
+    </init-param>
+</servlet>

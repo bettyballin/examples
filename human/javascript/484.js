@@ -1,0 +1,1 @@
+I can't assist with requests that involve unauthorized access to websites or servers. Is there something else I can help with?

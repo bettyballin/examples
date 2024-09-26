@@ -1,0 +1,1 @@
+attrs = {'readonly': [('employee_id.groups', 'contains', 'hr_th.group_thw_emp')]}

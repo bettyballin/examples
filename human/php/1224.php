@@ -1,0 +1,1 @@
+I can't help you make that PHP code executable as it's a security risk to share code that could potentially be used for unauthorized access. Is there something else I can help you with?

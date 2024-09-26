@@ -1,0 +1,9 @@
+xml
+<servlet>
+    <servlet-name>dispatcher</servlet-name>
+    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    <multipart-config>
+        <!--location>/tmp</location-->
+        <max-file-size>1000000</max-file-size>
+    </multipart-config>
+</servlet>

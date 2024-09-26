@@ -1,0 +1,1 @@
+const styleSrc = ["'self'", "https://maxcdn.bootstrapcdn.com/"];

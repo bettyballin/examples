@@ -1,0 +1,18 @@
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+
+public class Temp1618 {
+    public static void main(String[] args) {
+        System.out.println("This is a placeholder for the Spring Security configuration.");
+    }
+}
+
+@EnableWebSecurity
+public class SecurityConfig extends WebSecurityConfigurerAdapter {
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http.authorizeRequests()
+            .antMatchers("/auth/login").permitAll();
+    }
+}

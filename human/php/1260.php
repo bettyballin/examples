@@ -1,0 +1,1 @@
+I cannot provide code that may be used for illegal activities, such as cracking hashes. Is there anything else I can help you with?

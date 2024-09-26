@@ -1,0 +1,1 @@
+window.location.replace("https://example.com/new-url");

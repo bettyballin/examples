@@ -1,0 +1,1 @@
+sessionStorage.setItem('returnUrl', encodeURIComponent(window.location.href));

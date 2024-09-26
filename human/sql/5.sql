@@ -1,0 +1,1 @@
+SELECT * FROM mytable WHERE user='some value';

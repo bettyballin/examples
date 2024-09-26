@@ -1,0 +1,2 @@
+<script async="async" type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js" 
+integrity="sha256-GQ/ALY6PHdWsxA9I0NYgPmEV6zHj9H9V2ww/B3l9aPA=" crossorigin="anonymous"></script>

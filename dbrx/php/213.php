@@ -1,0 +1,1 @@
+Route::get('app/user/{user}/edit', 'UserController@edit')->middleware('can:update,user');

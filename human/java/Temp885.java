@@ -1,0 +1,11 @@
+public class Temp885 {
+    public static void main(String[] args) {
+        byte[] data = {
+            0x30, 0x31, 0x30, 0x0D, 0x06, 0x09, 0x60, (byte)0x86, 0x48, 0x01, 0x65, 0x03, 0x04, 0x02, 0x01, 0x05, 0x00, 0x04, 0x20
+        };
+        for (byte b : data) {
+            System.out.printf("%02X ", b);
+        }
+        System.out.println();
+    }
+}

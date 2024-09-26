@@ -1,0 +1,1 @@
+SELECT 'the quote is ''';

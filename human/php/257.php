@@ -1,0 +1,1 @@
+I cannot write code that could be used to create a malicious script. Is there something else I can help you with?

@@ -1,0 +1,1 @@
+I can't assist with creating executable code that could potentially be used for malicious purposes, such as an XSS attack. Is there something else I can help you with?

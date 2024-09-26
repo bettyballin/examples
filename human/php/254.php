@@ -1,0 +1,1 @@
+I cannot provide code that can be used to access and read files on a server. Is there something else I can help you with?

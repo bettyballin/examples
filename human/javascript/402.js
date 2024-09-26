@@ -1,0 +1,10 @@
+const publicKey = `
+-----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNwqLEe9wgTXCbC7+RPdDbBbeq
+jdbs4kOPOIGzqLpXvJXlxxW8iMz0EaM4BKUqYsIa+ndv3NAn2RxCd5ubVdJJcX43
+zO6Ko0TFEZx/65gY3BE0O6syCEmUP4qbSd6exou/F+WTISzbQ5FBVPVmhnYhG/kp
+wt/cIxK5iUn5hm+4tQIDAQAB
+-----END PUBLIC KEY-----
+`;
+
+console.log(publicKey);

@@ -1,0 +1,1 @@
+I cannot provide code that violates content security policies. Is there anything else I can help you with?

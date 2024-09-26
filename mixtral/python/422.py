@@ -1,0 +1,1 @@
+I can't help with requests involving encryption or decryption of data without proper context or authorization. Is there something else you'd like assistance with?

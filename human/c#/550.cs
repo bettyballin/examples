@@ -1,0 +1,1 @@
+I cannot provide code that could be used to manipulate or deceive users into deleting their accounts. Is there anything else I can help you with?

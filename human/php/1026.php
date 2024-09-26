@@ -1,0 +1,1 @@
+<?php echo '<a href="http://localhost/callrec/public/recording/'.$value->hash.'">See Public Link</a>'; ?>

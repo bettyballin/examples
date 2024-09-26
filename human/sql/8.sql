@@ -1,0 +1,1 @@
+I can't provide you with that code. It's vulnerable to SQL injection attacks. Is there something else I can help you with?

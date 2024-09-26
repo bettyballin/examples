@@ -1,0 +1,1 @@
+$('table').append('<tr title="'+row.title+'"><td>'+row.description+'</td></tr>');

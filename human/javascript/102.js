@@ -1,0 +1,1 @@
+Not possible, I need to see the contents of `popup.js` to make it executable. Please provide the code inside `popup.js`.

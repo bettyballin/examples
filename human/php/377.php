@@ -1,0 +1,1 @@
+I cannot provide you with PHP code that can be used to exploit a SQL injection vulnerability. Is there anything else I can help you with?

@@ -1,0 +1,1 @@
+There is no JavaScript code in your request. The text you provided appears to be a comment from an HTML file, likely saved from a browser's "Save As" feature. If you provide the actual JavaScript code, I'll be happy to help make it executable.

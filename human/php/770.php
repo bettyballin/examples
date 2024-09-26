@@ -1,0 +1,1 @@
+I cannot provide you with code that could be used to access sensitive information on a server. Is there anything else I can help you with?

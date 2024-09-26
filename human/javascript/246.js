@@ -1,0 +1,1 @@
+<iframe srcdoc="&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;This could be unsafe&lt;/body&gt;&lt;/html&gt;" sandbox="allow-scripts"></iframe>

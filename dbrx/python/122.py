@@ -1,0 +1,1 @@
+app.config['MAIL_DEFAULT_SENDER'] = ('Your Name', 'example@website.com')

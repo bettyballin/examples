@@ -1,0 +1,1 @@
+Content-Security-Policy: img-src 'self' *.google.com *.doubleclick.net *.googleadservices.net;

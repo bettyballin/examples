@@ -1,0 +1,3 @@
+print(hex(12))
+print(0xf)
+print(0xF)

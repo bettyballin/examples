@@ -1,0 +1,2 @@
+<?php
+$password_hash = "f8fe50b60e3c71dbcc805484352b449df06b2a810cf7d93294e644093a6f60ac";
