@@ -1,0 +1,2 @@
+
+let obj = Object.create

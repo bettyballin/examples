@@ -1,0 +1,3 @@
+
+$_SESSION['userPermission'] = $retrievedUserPermission;
+

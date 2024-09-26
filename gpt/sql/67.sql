@@ -1,0 +1,3 @@
+
+   GRANT SELECT, INSERT, UPDATE, DELETE ON User1.tablex TO User2;
+   

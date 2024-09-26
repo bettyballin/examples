@@ -1,0 +1,6 @@
+
+CREATE FUNCTION dbo.EscapeSingleQuotes(@Password NVARCHAR(MAX))
+RETURNS NVARCHAR(MAX)
+AS
+BEGIN
+    RETURN REPLACE(@Password

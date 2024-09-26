@@ -1,0 +1,8 @@
+
+ALTER 
+    ALGORITHM = {UNDEFINED | MERGE | TEMPTABLE}
+    DEFINER = { user | CURRENT_USER }
+    SQL SECURITY INVOKER
+    VIEW view_name AS select_statement
+    [WITH [CASCADED | LOCAL] CHECK OPTION];
+

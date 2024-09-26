@@ -1,0 +1,3 @@
+
+Roles.addUsersToRoles(userId, 'admin');
+

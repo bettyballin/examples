@@ -1,0 +1,2 @@
+
+const onePersonArticle = document.createElement('

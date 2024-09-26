@@ -1,0 +1,3 @@
+
+Array = function(){ alert('Hi'); };
+

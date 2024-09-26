@@ -1,0 +1,2 @@
+
+function restrict_access_wp_pages

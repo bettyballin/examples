@@ -1,0 +1,3 @@
+
+    ALTER DATABASE [Ydb] SET TRUSTWORTHY ON;
+    
